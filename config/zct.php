@@ -9,8 +9,8 @@
 return [
     'domain' => env('ZCT_DOMAIN', 'https://job.zgzsrc.com'),
     'login' => [
-        'username' => env('ZCT_USERNAME', '18224009904'),
-        'password' => env('ZCT_PASSWORD', '123456')
+        'username' => env('ZCT_USERNAME', ''),
+        'password' => env('ZCT_PASSWORD', '')
     ],
     'user_agent' => [
         'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.163 Safari/535.1',
